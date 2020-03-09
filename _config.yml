@@ -1,11 +1,11 @@
 # Site settings
 author: Skyler Littleaxe
-title: Anxieties Entering Program
+title: Anxieties, Triumphs and Late Nights
 header-img: img/home-bg.png
 email: littleaxe.skyler@gmail.com
 copyright_name: Skyler Littleaxe
 description: > # this means to ignore newlines until "baseurl:"
-  Fears I have and planned methods to overcome them
+  Fears I have regarding coding and planned methods to overcome them.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  skyler-littleaxe

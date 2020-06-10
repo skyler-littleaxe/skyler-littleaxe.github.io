@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I chose to become I programmer""
-date:       2020-03-16 01:37:37 +0000
+date:       2020-03-15 21:37:38 -0400
 permalink:  why_i_chose_to_become_i_programmer
 ---
 
